@@ -4,4 +4,4 @@
 3-Printing Uppercase and Lower case
 4-Printing in lowercase without q and e
 5-Printing Numbers
-6-printing numbers with putchar
+6-printing put numbers withs putchar
