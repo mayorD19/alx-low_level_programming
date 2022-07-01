@@ -5,7 +5,7 @@
 /**
  * main - A function to print alphabets
  *
- * Description using the putchar function we print the the alphabets in small case
+ * Description using the putchar function we print the the alphabets
  * Return: 0
  */
 int main(void)
