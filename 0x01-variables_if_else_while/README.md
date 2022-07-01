@@ -3,3 +3,4 @@
 2-Printing A-A letters
 3-Printing Uppercase and Lower case
 4-Printing in lowercase without q and e
+5-Printing Numbers
