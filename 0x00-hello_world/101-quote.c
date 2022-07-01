@@ -2,9 +2,9 @@
 #include <unistd.h>
 
 /**
- * main - A function that print out a string 
+ * main - A function that print out a string
  *
- * Description: using the write function to "print out a quote 
+ * Description: using the write function to "printing out a quote, 
  * Return:1
  */ 
 int main(void)
