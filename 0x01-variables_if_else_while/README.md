@@ -6,3 +6,4 @@
 5-Printing Numbers
 6-printing put numbers withs putchar
 7-Printing the reversed alphabet
+8-Printing numbes and alphabets
