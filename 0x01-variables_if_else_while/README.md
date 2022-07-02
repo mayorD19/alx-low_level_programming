@@ -8,3 +8,4 @@
 7-Printing the reversed alphabet
 8-Printing numbes and alphabets
 9-Printing numbers with space
+10-Printing two digits
