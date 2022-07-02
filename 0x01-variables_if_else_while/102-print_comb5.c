@@ -8,35 +8,25 @@
  */
 int main(void)
 {
-	int c = 0;
-	int f_d;
-	int l_d;
-	int f_d2;
-	int l_d2;
+	int num1, num2;
 
-	while (c <= 99)
+	for (num1 = 0; num1 <= 98; num1++)
 	{
-		f_d = (c / 10 + '0');
-		l_d = (c % 10 + '0');
-		f_d2 = (c / 10 + '0');
-		l_d2 = (c % 10 + '0');
-
-		if ((f_d < l_d) && (f_d2 < l_d2))
+		for (num2 = num1 + 1; num2 <= 99; num2++)
 		{
-			putchar(f_d);
-			putchar(l_d);
+			putchar((num1 / 10) + '0');
+			putchar((num1 % 10) + '0');
 			putchar(' ');
-			putchar(f_d2);
-			putchar(l_d2);
+			putchar((num2 / 10) + '0');
+			putchar((num2 % 10) + '0');
 
-			if (c != 89)
-			{
-				putchar(',');
-				putchar(' ');
-			}
+			if (num1 == 98 && num2 == 99)
+				continue;
+
+			putchar(',');
+			putchar(' ');
 		}
-		c++;
 	}
-putchar('\n');
-return (0);
+	putchar('\n');
+	return (0);
 }
