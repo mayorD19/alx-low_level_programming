@@ -4,7 +4,7 @@
 /**
  * print_sign - A function to print signs
  *
- * @c: using the function to check and print for signs
+ * @n: using the function to print for signs
  * Return: 0
  */
 int print_sign(int n)
@@ -21,7 +21,7 @@ int print_sign(int n)
 	}
 	else
 	{
-		_putchar(0);
+		_putchar('0');
 		return (0);
 	}
 }
