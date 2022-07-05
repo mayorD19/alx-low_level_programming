@@ -5,4 +5,5 @@
 4-To check for upper characters
 5-Signs
 6-A  function that computes the absolute value of an integer.
-7-A function that prints the last digit of a number
+7-A function that prints the last digit of
+8-Printing Jack Beuar Minutes a number
