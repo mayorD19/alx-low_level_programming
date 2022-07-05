@@ -4,7 +4,7 @@
 /**
  * jack_bauer - printing the time
  *
- * @c: printing out tim
+ * Description: printing out time
  * Return: 0
  */
 void jack_bauer(void)
