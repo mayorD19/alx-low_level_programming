@@ -4,7 +4,7 @@
 /**
  * jack_bauer - printing the time of jack bauer's life
  * 
- * @c: using the putchar to print out time
+ * @c: printing out time
  * Return: 0
  */
 void jack_bauer(void)
