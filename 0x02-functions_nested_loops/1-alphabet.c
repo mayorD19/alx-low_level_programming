@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - A function that prints an alphabet
+ * print_alphabet - A function that prints an alphabet
  *
- * Description Using the" putchar function
+ * Description Using the putchar function
  * Return: 0
  */
 void print_alphabet(void)
