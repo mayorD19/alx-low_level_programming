@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * jack_bauer - printing the time of jack bauer's life
- * 
- * @c: printing out time
+ * jack_bauer - printing the time
+ *
+ * @c: printing out tim
  * Return: 0
  */
 void jack_bauer(void)
