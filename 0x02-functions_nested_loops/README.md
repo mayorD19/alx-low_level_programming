@@ -4,3 +4,4 @@
 3-To check for lower characters
 4-To check for upper characters
 5-Signs
+6-A  function that computes the absolute value of an integer.
