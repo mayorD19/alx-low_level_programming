@@ -1,2 +1,3 @@
 0-Printing _putchar
 1-Printing Alphabets
+2-A program that prints ten times the number
