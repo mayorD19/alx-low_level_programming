@@ -4,7 +4,7 @@
 /**
  * _islower - A function that checks if it is in lowercase
  *
- * Description Using the putchar to check if it is in lowercase
+ * Description Using the int c to check if it is in lowercase
  * Return: 0
  */
 int _islower(int c)
@@ -13,7 +13,7 @@ int _islower(int c)
 	{
 		return (1);
 	}
-	else 
+	else
 	{
 		return (0);
 	}
