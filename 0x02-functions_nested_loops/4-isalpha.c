@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * _isaplha - A function that checks for upper character
+ * _isalpha - A function that checks for upper character
  *
- * : using the putchar to check alpha characters
+ * @c: using the putchar to check alpha characters
  * Return: 0.
  */
 int _isalpha(int c)
