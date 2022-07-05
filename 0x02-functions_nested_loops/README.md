@@ -7,3 +7,4 @@
 6-A  function that computes the absolute value of an integer.
 7-A function that prints the last digit of
 8-Printing Jack Beuar Minutes a number
+9-Times table
