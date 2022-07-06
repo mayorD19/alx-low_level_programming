@@ -10,3 +10,4 @@
 9-Times table
 10-adding two integers and printing their result
 11-Printing natural numbers from zero to ninety eight
+12- function that prints the n times table, starting with 0.
