@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * postive_or_negative - to check if a number is + or -
+ * positive_or_negative - to check if a number is + or -
  *
  * @n: positive or negative function
  * Return: 0
