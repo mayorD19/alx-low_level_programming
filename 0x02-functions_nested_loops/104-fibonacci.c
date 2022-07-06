@@ -25,7 +25,7 @@ int main(void)
 	i = i / 1000;
 	n = j % 1000;
 	j = j / 1000;
-	while (count <= 90)
+	while (count <= 98)
 	{
 		carry = (m + n) / 100;
 		p = (i + j) - carry * 1000;
