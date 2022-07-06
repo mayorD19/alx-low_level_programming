@@ -9,3 +9,4 @@
 8-Printing Jack Beuar Minutes a number
 9-Times table
 10-adding two integers and printing their result
+11-Printing natural numbers from zero to ninety eight
