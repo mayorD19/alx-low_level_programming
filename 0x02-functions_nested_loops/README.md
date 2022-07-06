@@ -8,3 +8,4 @@
 7-A function that prints the last digit of
 8-Printing Jack Beuar Minutes a number
 9-Times table
+10-adding two integers and printing their result
