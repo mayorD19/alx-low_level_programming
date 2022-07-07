@@ -5,3 +5,4 @@
 4-printing numbers except from 2 and 4
 5-Printing 1-14 14 times
 6-Printing a line
+7-printing Diagonally
