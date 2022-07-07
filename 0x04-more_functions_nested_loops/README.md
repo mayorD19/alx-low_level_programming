@@ -8,3 +8,4 @@
 7-printing Diagonally
 8-Printing square
 9-Printing fizzbuzz
+10-Printing Triangles using the hashtag
