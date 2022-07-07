@@ -10,3 +10,4 @@
 9-Printing fizzbuzz
 10-Printing Triangles using the hashtag
 11-Printing the prime number of a long number
+12-Numbers have life
