@@ -6,3 +6,4 @@
 5-Printing 1-14 14 times
 6-Printing a line
 7-printing Diagonally
+8-Printing square
