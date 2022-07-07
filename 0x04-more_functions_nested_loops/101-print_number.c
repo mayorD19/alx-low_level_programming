@@ -8,31 +8,20 @@
  */
 void print_number(int n)
 {
-	int a, b, c, d, e;
+	unsigned int k = n;
 
-	b = n;
-	e = a = 1;
-
-	if (b < 0)
+	if (n < 0) 
 	{
-		b *= -1;
+		n *= -1;
+		k = n;
 		_putchar('-');
 	}
 
-	d = b;
-	while (d >= 10)
+	k /= 10;
+
+	if (k != 0)
 	{
-		a++;
-		d /= 10;
+		print_number(k);
 	}
-	for (c = 1; c < a; c++)
-	{
-		e *= 10;
-	}
-	while (e > 1)
-	{
-		_putchar((b / e) % 10 + '0');
-		e /= 10;
-	}
-	_putchar(b % 10 + '0');
+	_putchar((unsigned int) n % 10 + '0');
 }
