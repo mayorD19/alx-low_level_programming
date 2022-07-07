@@ -7,3 +7,4 @@
 6-Printing a line
 7-printing Diagonally
 8-Printing square
+9-Printing fizzbuzz
