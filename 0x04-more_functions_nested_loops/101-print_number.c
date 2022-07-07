@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * print_number - A function that prints numbers
@@ -9,7 +8,7 @@
  */
 void print_number(int n)
 {
-	long a, b, c, d, e;
+	int a, b, c, d, e;
 
 	b = n;
 	e = a = 1;
