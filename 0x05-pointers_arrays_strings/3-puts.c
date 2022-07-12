@@ -9,7 +9,7 @@
  */
 void _puts(char *c)
 {
-	while(*c != '\0')
+	while (*c != '\0')
 	{
 		_putchar(*c);
 		c++;
