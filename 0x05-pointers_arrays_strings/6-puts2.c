@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * puts2 - A function to print the first stdout 
+ * puts2 - A function to print the first stdout
  *
- * @s: The character passed
+ * @str: The character passed
  * Return: 0
  */
 void puts2(char *str)
