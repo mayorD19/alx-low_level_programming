@@ -6,3 +6,4 @@
 5- A function that coverts lowercase into uppercase
 6-A A function that capitalizes only the first Letter.
 7-Writing a function that encodes a string into 1337
+8-Encoding a string using ROT-13
