@@ -9,3 +9,4 @@
 8-Encoding a string using ROT-13
 9-Numbers have life and they are not meant to be on papaer
 10- A dream doesn't become reality through magic; it takes sweat, determination and hard work
+11-A function that adds two numbers
