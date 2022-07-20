@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * checker - to check the function 
- * is_prime_number - A function that returns one with prime nos
+ * checker - to check the function
  *
+ * @base: The base number
  * @n: The character passed
  * Returns: n
  */
@@ -17,6 +17,11 @@ int checker(int n, int base)
 		return (checker(n + 1, base));
 	return (1);
 }
+/**
+ * is_prime_number - A function that returns one with prime nos
+ * @n: The parameter passed
+ * Return: checker
+ */
 int is_prime_number(int n)
 {
 	return (checker(2, n));
