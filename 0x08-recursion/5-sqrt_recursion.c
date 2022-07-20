@@ -2,7 +2,6 @@
 
 /**
  * to_check - A function that gets the natural square root of a no
- *
  * @base: Parameter to check
  * @n: The parameter passed 
  * Return: n
