@@ -5,7 +5,7 @@
  *
  * @base: The base number
  * @n: The character passed
- * Returns: n
+ * Returns: 1 if is prime
  */
 int checker(int n, int base)
 {
