@@ -2,7 +2,7 @@
 
 /**
  * to_check - A function that gets the natural square root of a no
- *_sqrt_recursion - A function to get the normal square root
+ *
  * @base: Parameter to check
  * @n: The parameter passed 
  * Return: n
@@ -15,6 +15,11 @@ int to_check(int n, int base)
 		return (-1);
 	return (to_check(n + 1, base));
 }
+/**
+ * _sqrt_recursion - return the natural square root of a number n.
+ * @n: number to check for square roots.
+ * Return: the natural square root of number n
+ */
 int _sqrt_recursion(int n)
 {
 	return (to_check(1, n));
