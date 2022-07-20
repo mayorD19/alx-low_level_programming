@@ -6,3 +6,4 @@
 5- A Function that returns the natural sq\quare root of a number
 6-A function that returns  1 if the integer is a  prime number else
 7-A function that returns 1 if it is a palindrome
+8-a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0.
