@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * checker - to check the function
- *
- * @base: The base number
- * @n: The character passed
- * Returns: 1 if is prime
- */
+  * checker - checks recursively the input from is_prime_number
+  * @n: iterator
+  * @base: base number to check
+  * Return: 1 if n is a prime, else return 0 otherwise.
+  */
 int checker(int n, int base)
 {
 	if (base % n == 0 || base < 2)
