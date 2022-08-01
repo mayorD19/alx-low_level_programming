@@ -2,7 +2,7 @@
 #define THE_FILE_NAME __FILE__
 
 /**
- * MAIN - RETURN THE NASME OF THE FILE BEING COMPILED
+ * main - RETURN THE NASME OF THE FILE BEING COMPILED
  *
  * Return: Always 0.
  */
