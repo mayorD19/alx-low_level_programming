@@ -3,7 +3,7 @@
 
 /**
  * print_numbers - A function that prints numbers followed by a new line
- * @seperator: The seperating parameter
+ * @separator: The seperating parameter
  * @n: The integer paramter passed
  * Return: n
  */
@@ -12,7 +12,7 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 	unsigned int d = 0;
 	va_list begin;
 
-	va_start (begin, n);
+	va_start(begin, n);
 
 	if (!separator)
 	{
