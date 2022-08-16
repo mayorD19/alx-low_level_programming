@@ -5,5 +5,6 @@
 4-A function that frees a listint_t list.
 5-a  function that frees a listint_t list.
 6-A function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
+7-A function that returns the nth node of a listint_t linked list.
 
 
