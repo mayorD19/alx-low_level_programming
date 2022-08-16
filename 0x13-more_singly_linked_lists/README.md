@@ -10,5 +10,6 @@
 9-A Function that inserts a new node at a given position.
 10-function that deletes the node at index index of a listint_t linked list
 11-A function that reverses a listint_t linked list
+12-A Function that prints a listint_t linked list.
 
 
