@@ -6,4 +6,4 @@
 5-A  function that returns the number of bits you would need to flip
  to get from one number to another
 6-A function that checks the endianness.
-
+7-a FUNCTION THAT FINDS THE PASSWORD TO SPECIFIC PROGRAM
